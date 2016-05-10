@@ -10,13 +10,13 @@ Allows access to Backbone.Events on, off, and trigger functions without the need
   
   This allows the use of Backbone.Events without having to load the entirety of Backbone.
   
-  **Reason:** The Backbone.Events system is more versatile than jQuery Custom Events and this
+  Reason: The Backbone.Events system is more versatile than jQuery Custom Events and this
           provides a smaller footprint than loading the entire Backbone.js file or the
           unnecessary functions listed below.
   
-  **Functions Included:** on, off, trigger
+  Functions Included: on, off, trigger
   
-  **Functions _NOT_ Included:** listenTo, stopListening, once, listenToOnce
+  Functions _NOT_ Included: listenTo, stopListening, once, listenToOnce
 
 
 
